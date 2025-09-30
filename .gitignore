@@ -1,0 +1,20 @@
+# Ignore virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit user configs
+.streamlit/credentials.toml
+.streamlit/secrets.toml
