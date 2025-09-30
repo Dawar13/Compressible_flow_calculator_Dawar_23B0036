@@ -156,4 +156,4 @@ This file is not required.
 ---
 
 ## 📜 License
-This project is for educational use. Add your preferred license if publishing publicly.
+This project is for educational use. 
