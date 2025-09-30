@@ -2,7 +2,9 @@
 # Compressible Flow Calculator (Streamlit GUI)
 
 A compact, course-ready GUI for **Isentropic flows**, **Normal shocks**, and **Oblique shocks (weak/strong)** under the perfect-gas model. Built with Streamlit.
-
+Visit -  [git commit -m "Update README with new description" ](https://compressibleflowcalculator23b0036ae339.streamlit.app/) 
+>>> The Already deployed version
+>>> 
 ## 📁 Folder layout
 ```
 compressible_flow_calculator/
